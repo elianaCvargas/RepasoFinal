@@ -1,0 +1,15 @@
+D:\DG\20180726 - Final\20180726 - Final - Alumno\Entidades\bin\Debug\Entidades.dll
+D:\DG\20180726 - Final\20180726 - Final - Alumno\Entidades\bin\Debug\Entidades.pdb
+D:\DG\20180726 - Final\20180726 - Final - Alumno\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\DG\20180726 - Final\20180726 - Final - Alumno\Entidades\obj\Debug\Entidades.dll
+D:\DG\20180726 - Final\20180726 - Final - Alumno\Entidades\obj\Debug\Entidades.pdb
+C:\Users\CarlaEliana\Desktop\Garat.Daniela.2018\20180726 - Final\20180726 - Final - Alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\CarlaEliana\Desktop\Garat.Daniela.2018\20180726 - Final\20180726 - Final - Alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\CarlaEliana\Desktop\Garat.Daniela.2018\20180726 - Final\20180726 - Final - Alumno\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\CarlaEliana\Desktop\Garat.Daniela.2018\20180726 - Final\20180726 - Final - Alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\CarlaEliana\Desktop\Garat.Daniela.2018\20180726 - Final\20180726 - Final - Alumno\Entidades\obj\Debug\Entidades.pdb
+C:\Users\CarlaEliana\Desktop\CARLA\20180726 - Final\20180726 - Final - Alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\CarlaEliana\Desktop\CARLA\20180726 - Final\20180726 - Final - Alumno\Entidades\obj\Debug\Entidades.pdb
+C:\Users\CarlaEliana\Desktop\CARLA\20180726 - Final\20180726 - Final - Alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\CarlaEliana\Desktop\CARLA\20180726 - Final\20180726 - Final - Alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\CarlaEliana\Desktop\CARLA\20180726 - Final\20180726 - Final - Alumno\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

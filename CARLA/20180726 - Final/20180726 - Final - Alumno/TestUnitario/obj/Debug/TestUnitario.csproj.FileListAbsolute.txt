@@ -1,0 +1,27 @@
+D:\DG\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\TestUnitario.dll
+D:\DG\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\TestUnitario.pdb
+D:\DG\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\20180726 - Final.exe
+D:\DG\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\Entidades.dll
+D:\DG\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\20180726 - Final.pdb
+D:\DG\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\Entidades.pdb
+D:\DG\20180726 - Final\20180726 - Final - Alumno\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+D:\DG\20180726 - Final\20180726 - Final - Alumno\TestUnitario\obj\Debug\TestUnitario.dll
+D:\DG\20180726 - Final\20180726 - Final - Alumno\TestUnitario\obj\Debug\TestUnitario.pdb
+C:\Users\CarlaEliana\Desktop\Garat.Daniela.2018\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\CarlaEliana\Desktop\Garat.Daniela.2018\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\CarlaEliana\Desktop\Garat.Daniela.2018\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\20180726 - Final.exe
+C:\Users\CarlaEliana\Desktop\Garat.Daniela.2018\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\Entidades.dll
+C:\Users\CarlaEliana\Desktop\Garat.Daniela.2018\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\20180726 - Final.pdb
+C:\Users\CarlaEliana\Desktop\Garat.Daniela.2018\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\Entidades.pdb
+C:\Users\CarlaEliana\Desktop\Garat.Daniela.2018\20180726 - Final\20180726 - Final - Alumno\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+C:\Users\CarlaEliana\Desktop\Garat.Daniela.2018\20180726 - Final\20180726 - Final - Alumno\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\CarlaEliana\Desktop\Garat.Daniela.2018\20180726 - Final\20180726 - Final - Alumno\TestUnitario\obj\Debug\TestUnitario.pdb
+C:\Users\CarlaEliana\Desktop\CARLA\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\CarlaEliana\Desktop\CARLA\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\CarlaEliana\Desktop\CARLA\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\20180726 - Final.exe
+C:\Users\CarlaEliana\Desktop\CARLA\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\Entidades.dll
+C:\Users\CarlaEliana\Desktop\CARLA\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\20180726 - Final.pdb
+C:\Users\CarlaEliana\Desktop\CARLA\20180726 - Final\20180726 - Final - Alumno\TestUnitario\bin\Debug\Entidades.pdb
+C:\Users\CarlaEliana\Desktop\CARLA\20180726 - Final\20180726 - Final - Alumno\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+C:\Users\CarlaEliana\Desktop\CARLA\20180726 - Final\20180726 - Final - Alumno\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\CarlaEliana\Desktop\CARLA\20180726 - Final\20180726 - Final - Alumno\TestUnitario\obj\Debug\TestUnitario.pdb

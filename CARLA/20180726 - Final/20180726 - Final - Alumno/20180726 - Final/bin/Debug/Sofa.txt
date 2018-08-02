@@ -1,0 +1,24 @@
+Alto: 1, Ancho: 1, Profundidad: 1, Rojo
+
+Alto: 0, Ancho: 1, Profundidad: 0, Negro
+
+Alto: 1, Ancho: 1, Profundidad: 1, Negro
+
+Alto: 1, Ancho: 1, Profundidad: 1, Natural
+
+Alto: 1, Ancho: 1, Profundidad: 2, Negro
+
+Alto: 4, Ancho: 4, Profundidad: 2, Blanco
+
+Alto: 4, Ancho: 8, Profundidad: 2, Rojo
+
+Alto: 0, Ancho: 1, Profundidad: 0, Blanco
+
+Alto: 2, Ancho: 1, Profundidad: 0, Natural
+
+Alto: 2, Ancho: 1, Profundidad: 2, Blanco
+
+Alto: 1, Ancho: 1, Profundidad: 1, Negro
+
+Alto: 1, Ancho: 1, Profundidad: 1, Negro
+
