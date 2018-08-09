@@ -1,0 +1,20 @@
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\Entidades\bin\Debug\Entidades.dll
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\Entidades\bin\Debug\Entidades.pdb
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\Entidades\obj\Debug\Entidades.dll
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\Entidades\bin\Debug\Entidades.dll
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\Entidades\obj\Debug\Entidades.dll
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\Entidades\obj\Debug\Entidades.pdb
+D:\CARLA\Carla_Vargas-20180802\Entidades\bin\Debug\Entidades.dll
+D:\CARLA\Carla_Vargas-20180802\Entidades\bin\Debug\Entidades.pdb
+D:\CARLA\Carla_Vargas-20180802\Entidades\obj\Debug\Entidades.dll
+D:\CARLA\Carla_Vargas-20180802\Entidades\obj\Debug\Entidades.pdb
+D:\CARLA\Carla_Vargas-20180802\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\Entidades\obj\Debug\Entidades.dll
+C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\Entidades\bin\Debug\Entidades.dll
+C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\Entidades\bin\Debug\Entidades.pdb
+C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\Entidades\obj\Debug\Entidades.pdb

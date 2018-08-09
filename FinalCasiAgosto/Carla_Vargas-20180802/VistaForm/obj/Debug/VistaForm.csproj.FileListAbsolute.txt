@@ -1,0 +1,44 @@
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\obj\Debug\VistaForm.Form1.resources
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\bin\Debug\VistaForm.exe.config
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\bin\Debug\VistaForm.exe
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\bin\Debug\VistaForm.pdb
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\bin\Debug\Entidades.dll
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\bin\Debug\Entidades.pdb
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\obj\Debug\VistaForm.exe
+c:\users\horacio\documents\visual studio 2017\Projects\IdeaFinalAgosto\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\Final-20180802\VistaForm\obj\Debug\VistaForm.FormArchivos.resources
+D:\CARLA\Carla_Vargas-20180802\VistaForm\bin\Debug\VistaForm.exe.config
+D:\CARLA\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.exe
+D:\CARLA\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.pdb
+D:\CARLA\Carla_Vargas-20180802\VistaForm\bin\Debug\VistaForm.exe
+D:\CARLA\Carla_Vargas-20180802\VistaForm\bin\Debug\VistaForm.pdb
+D:\CARLA\Carla_Vargas-20180802\VistaForm\bin\Debug\Entidades.dll
+D:\CARLA\Carla_Vargas-20180802\VistaForm\bin\Debug\Entidades.pdb
+D:\CARLA\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+D:\CARLA\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.FormArchivos.resources
+D:\CARLA\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+D:\CARLA\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\VistaForm\bin\Debug\Entidades.dll
+C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.FormArchivos.resources
+C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
