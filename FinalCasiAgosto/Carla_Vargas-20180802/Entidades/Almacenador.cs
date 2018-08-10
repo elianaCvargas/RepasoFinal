@@ -29,7 +29,7 @@ namespace Entidades
 
         public void DispararEvento(Archivo ar)
         {
-            this.MostrarInfo.Invoke(ar.ToString());
+            this.MostrarInfo.Invoke((string)ar);
         }
     }
 }

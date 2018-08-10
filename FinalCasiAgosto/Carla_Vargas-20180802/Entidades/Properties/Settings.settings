@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="CadenaConexion" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Data Source=LAB3PC09\SQLEXPRESS;Initial Catalog=final-20180802;Integrated Security=True</Value>
+      <Value Profile="(Default)">Data Source=CARLA\CARLA;Initial Catalog=final-20180802;Integrated Security=True</Value>
     </Setting>
   </Settings>
 </SettingsFile>

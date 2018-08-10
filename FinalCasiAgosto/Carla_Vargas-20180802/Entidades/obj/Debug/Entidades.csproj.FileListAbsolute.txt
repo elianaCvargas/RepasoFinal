@@ -18,3 +18,9 @@ C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\Entidades\bin\Debu
 C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\Entidades\bin\Debug\Entidades.dll
 C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\Entidades\bin\Debug\Entidades.pdb
 C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\Entidades\obj\Debug\Entidades.pdb
+C:\Users\CarlaEliana\Desktop\FinalCasiAgosto\Carla_Vargas-20180802\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\CarlaEliana\Desktop\FinalCasiAgosto\Carla_Vargas-20180802\Entidades\bin\Debug\Entidades.dll
+C:\Users\CarlaEliana\Desktop\FinalCasiAgosto\Carla_Vargas-20180802\Entidades\bin\Debug\Entidades.pdb
+C:\Users\CarlaEliana\Desktop\FinalCasiAgosto\Carla_Vargas-20180802\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\CarlaEliana\Desktop\FinalCasiAgosto\Carla_Vargas-20180802\Entidades\obj\Debug\Entidades.dll
+C:\Users\CarlaEliana\Desktop\FinalCasiAgosto\Carla_Vargas-20180802\Entidades\obj\Debug\Entidades.pdb

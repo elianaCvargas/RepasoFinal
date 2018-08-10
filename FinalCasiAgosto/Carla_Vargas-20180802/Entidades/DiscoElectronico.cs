@@ -18,25 +18,17 @@ namespace Entidades
     public class DiscoElectronico: Almacenador, IAlmaceable<List<Archivo>, Archivo>
     {
       
-         private static SqlCommand comando;
-        private static SqlConnection conexion;
+        private  SqlCommand comando;
+        private  SqlConnection conexion;
 
         public List<Archivo> archivosGuardados;
         
         private DiscoElectronico()
             :this(5)
         {
-
             this.archivosGuardados = new List<Archivo>();
            
-            conexion = new SqlConnection(Properties.Settings.Default.CadenaConexion);
-            // CREO UN OBJETO SQLCOMMAND
-            comando = new SqlCommand();
-            // INDICO EL TIPO DE COMANDO
-            comando.CommandType = System.Data.CommandType.Text;
-            // ESTABLEZCO LA CONEXION
-            comando.Connection = conexion;
-
+            
         }
 //f.	Agregar un constructor que reciba la capacidad y en el cual se deberá cargar la lista a partir de los datos guardados en la base.
 //g.	El constructor privado inicializará la lista. Por defecto la capacidad será 5.
@@ -44,12 +36,19 @@ namespace Entidades
         public DiscoElectronico(int cap)
             :base(cap)
         {
-            List<Archivo> lista = this.Leer("Archivo");
+            conexion = new SqlConnection(Properties.Settings.Default.CadenaConexion);
+            // CREO UN OBJETO SQLCOMMAND
+            comando = new SqlCommand();
+            // INDICO EL TIPO DE COMANDO
+            comando.CommandType = System.Data.CommandType.Text;
+            // ESTABLEZCO LA CONEXION
+            comando.Connection = conexion;
+            //List<Archivo> lista = this.Leer("Archivo");
             archivosGuardados = this.Leer("Archivo");
-            foreach (Archivo item in archivosGuardados)
-            {
-                archivosGuardados.Add(item);
-            }
+            //foreach (Archivo item in archivosGuardados)
+            //{
+            //    archivosGuardados.Add(item);
+            //}
             
             
         }

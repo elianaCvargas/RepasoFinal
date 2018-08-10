@@ -16,7 +16,7 @@ namespace VistaForm
     {
         DiscoElectronico electronico;
         ArchiveroFisico fisico;
-        Almacenador almacenador;
+        
         Archivo archivo;
         Thread hilo;
 
@@ -90,7 +90,7 @@ namespace VistaForm
         //Ejecutar en un hilo el método MostrarArchivos de la clase DiscoElectronico.
         private void btnLeerElectronico_Click(object sender, EventArgs e)
         {
-            this.almacenador.MostrarInfo += MostrarArchivo;
+            this.electronico.MostrarInfo += MostrarArchivo;
             this.hilo = new Thread(electronico.MostrarArchivos);
             hilo.Start();
             

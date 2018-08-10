@@ -42,3 +42,14 @@ C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\VistaForm\obj\Debu
 C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.FormArchivos.resources
 C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
 C:\Users\GabrielaPatricia\Desktop\CARLA\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+C:\Users\CarlaEliana\Desktop\FinalCasiAgosto\Carla_Vargas-20180802\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\CarlaEliana\Desktop\FinalCasiAgosto\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\CarlaEliana\Desktop\FinalCasiAgosto\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\CarlaEliana\Desktop\FinalCasiAgosto\Carla_Vargas-20180802\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\CarlaEliana\Desktop\FinalCasiAgosto\Carla_Vargas-20180802\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\CarlaEliana\Desktop\FinalCasiAgosto\Carla_Vargas-20180802\VistaForm\bin\Debug\Entidades.dll
+C:\Users\CarlaEliana\Desktop\FinalCasiAgosto\Carla_Vargas-20180802\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\CarlaEliana\Desktop\FinalCasiAgosto\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+C:\Users\CarlaEliana\Desktop\FinalCasiAgosto\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.FormArchivos.resources
+C:\Users\CarlaEliana\Desktop\FinalCasiAgosto\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\CarlaEliana\Desktop\FinalCasiAgosto\Carla_Vargas-20180802\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
