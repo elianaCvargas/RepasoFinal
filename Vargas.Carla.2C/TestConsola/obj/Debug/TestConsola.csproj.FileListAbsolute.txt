@@ -1,0 +1,10 @@
+D:\VisualStudio\Vargas.Carla.2C\TestConsola\bin\Debug\TestConsola.exe.config
+D:\VisualStudio\Vargas.Carla.2C\TestConsola\bin\Debug\TestConsola.exe
+D:\VisualStudio\Vargas.Carla.2C\TestConsola\bin\Debug\TestConsola.pdb
+D:\VisualStudio\Vargas.Carla.2C\TestConsola\bin\Debug\Archivos.dll
+D:\VisualStudio\Vargas.Carla.2C\TestConsola\bin\Debug\Entidades.dll
+D:\VisualStudio\Vargas.Carla.2C\TestConsola\bin\Debug\Archivos.pdb
+D:\VisualStudio\Vargas.Carla.2C\TestConsola\bin\Debug\Entidades.pdb
+D:\VisualStudio\Vargas.Carla.2C\TestConsola\obj\Debug\TestConsola.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Vargas.Carla.2C\TestConsola\obj\Debug\TestConsola.exe
+D:\VisualStudio\Vargas.Carla.2C\TestConsola\obj\Debug\TestConsola.pdb

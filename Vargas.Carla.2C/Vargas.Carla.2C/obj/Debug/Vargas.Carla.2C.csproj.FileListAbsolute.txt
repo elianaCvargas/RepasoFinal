@@ -1,0 +1,12 @@
+D:\VisualStudio\Vargas.Carla.2C\Vargas.Carla.2C\bin\Debug\Vargas.Carla.2C.exe.config
+D:\VisualStudio\Vargas.Carla.2C\Vargas.Carla.2C\bin\Debug\Vargas.Carla.2C.exe
+D:\VisualStudio\Vargas.Carla.2C\Vargas.Carla.2C\bin\Debug\Vargas.Carla.2C.pdb
+D:\VisualStudio\Vargas.Carla.2C\Vargas.Carla.2C\obj\Debug\Vargas.Carla._2C.Properties.Resources.resources
+D:\VisualStudio\Vargas.Carla.2C\Vargas.Carla.2C\obj\Debug\Vargas.Carla.2C.csproj.GenerateResource.Cache
+D:\VisualStudio\Vargas.Carla.2C\Vargas.Carla.2C\obj\Debug\Vargas.Carla.2C.exe
+D:\VisualStudio\Vargas.Carla.2C\Vargas.Carla.2C\obj\Debug\Vargas.Carla.2C.pdb
+D:\VisualStudio\Vargas.Carla.2C\Vargas.Carla.2C\obj\Debug\Vargas.Carla.2C.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Vargas.Carla.2C\Vargas.Carla.2C\bin\Debug\Archivos.dll
+D:\VisualStudio\Vargas.Carla.2C\Vargas.Carla.2C\bin\Debug\Entidades.dll
+D:\VisualStudio\Vargas.Carla.2C\Vargas.Carla.2C\bin\Debug\Archivos.pdb
+D:\VisualStudio\Vargas.Carla.2C\Vargas.Carla.2C\bin\Debug\Entidades.pdb

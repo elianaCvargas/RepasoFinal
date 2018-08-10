@@ -1,0 +1,7 @@
+D:\VisualStudio\Vargas.Carla.2C\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Vargas.Carla.2C\Archivos\bin\Debug\Archivos.dll
+D:\VisualStudio\Vargas.Carla.2C\Archivos\bin\Debug\Archivos.pdb
+D:\VisualStudio\Vargas.Carla.2C\Archivos\bin\Debug\Entidades.dll
+D:\VisualStudio\Vargas.Carla.2C\Archivos\bin\Debug\Entidades.pdb
+D:\VisualStudio\Vargas.Carla.2C\Archivos\obj\Debug\Archivos.dll
+D:\VisualStudio\Vargas.Carla.2C\Archivos\obj\Debug\Archivos.pdb

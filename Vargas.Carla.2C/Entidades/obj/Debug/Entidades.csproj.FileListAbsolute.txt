@@ -1,0 +1,4 @@
+D:\VisualStudio\Vargas.Carla.2C\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Vargas.Carla.2C\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Vargas.Carla.2C\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Vargas.Carla.2C\Entidades\obj\Debug\Entidades.pdb
